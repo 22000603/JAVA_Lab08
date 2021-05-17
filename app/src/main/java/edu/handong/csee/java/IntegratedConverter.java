@@ -1,10 +1,12 @@
 package edu.handong.csee.java;
 
+//I don't know why these lines are lined by red
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
-/**I don't know why these lines are lined by red*/
+
 //Have I make class in app/src/main/java ? or is it okay in github repository?
+//Is is too hard to learn gradle in eclipse 
 
 import edu.handong.csee.java.converters.*; // You will learn the import statement in L11.
 
