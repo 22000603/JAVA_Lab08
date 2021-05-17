@@ -1,6 +1,6 @@
 package edu.handong.csee.java.converters;
 /**
-* This interface convert unit to other unit
+* This interface convert value to other value
 */
 public interface Convertible {
     /**This function accepts the number entered by user internally
