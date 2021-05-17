@@ -1,4 +1,6 @@
 package edu.handong.csee.java.converters;
+/**
+ * This class changes all value*/
 
 public class AllConverter {
     private double fromValue;
